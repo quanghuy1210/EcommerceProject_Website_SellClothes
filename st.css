@@ -1,0 +1,20 @@
+
+.navbar {
+	background-color: rgba(15, 15, 15, 0.9) !important;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+.navbar li a{
+	color:#fcfcfc !important;
+	font-size: 20px;
+}
+.navbar li a:hover{
+	color:black !important;
+}
+
+
+footer {
+	margin: auto;
+	background-color: rgba(153, 152, 152, 0.9) !important;
+	color: #020000;
+}
